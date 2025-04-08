@@ -5,13 +5,17 @@ I love going on hikes so here is a picture of one from a hike I completed in Mar
 
 ![HIKE!!!!](IMG_4111.jpg)
 
+That file might have been too big so here is a smaller image
+![Random Image!!!!](smaller_image.jpg)
+
 > I am testing out quoting text
 
 Here I am testing quoting code:
-'''
+
+```
 git checkout
 git cherry-pick
-'''
+```
 
 [My GitHub](https://github.com/GMohandas13/CSE110)
 
