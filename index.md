@@ -1,8 +1,9 @@
 # Hi, My Name is Gautam Mohandas
 
 I am a **3rd year CS student at UCSD** and I am *excited* to take this class! 
-I love going on hikes so here is a picture of one from a hike I completed in Marin County
-
+I first started coding in 2022 as a part of one of my Aeronautical Engineering major requirements but got much more interested in CS as a result. I'm not the best coder but I love to learn new things and love a good challenge.
+In my free time I also love to work on cars and watch/play basketball. My favorite player of all time is Paul George, but being from the Bay my favorite team is the WARRIORS!!!!!
+I love going on hikes so here is a picture of one from a hike I completed in Marin County!
 ![HIKE!!!!](IMG_4111.jpg)
 
 That file might have been too big so here is a smaller image
